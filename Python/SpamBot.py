@@ -8,6 +8,6 @@ print(pyautogui.position())
 
 while True:
     pyautogui.click(789, 985)
-    pyautogui.typewrite("@James120#2742 ")
+    pyautogui.typewrite("SPAM")
     pyautogui.typewrite(["enter"])
     print("Sending spam")
